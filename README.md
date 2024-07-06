@@ -1,7 +1,6 @@
 ## Deskripsi Aplikasi
 Sistem Informasi Perpustakaan Berbasis Web merupakan sistem yang dapat digunakan untuk mengelola berbagai aktifitas di perpustakaan, mulai dari penyimpanan databuku hingga proses peminjaman.
 
-### * Untuk Reuploader Source Code tolong cantumin sumber juga ya, terima kasih :)
 
 ##  Framework
 * Codeigniter 3.1.11
